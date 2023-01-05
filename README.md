@@ -1,16 +1,16 @@
-# app_calculator
+# App calculator
 
-A new Flutter project.
+Projeto de calculadora que visa o estudo dos seguintes assuntos em um só projeto: Banco de dados mongoDB, Gerenciador de estado Bloc/Cubit, Arquitetura limpa e Teste Unitários, Widgets e Integração.
 
-## Getting Started
+## Iniciar projeto 
 
-This project is a starting point for a Flutter application.
+Para da um start no projeto é precise está nas seguintes versões do flutter:
+Flutter 3.3.9 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision b8f7f1f986 (6 weeks ago) • 2022-11-23 06:43:51 +0900
+Engine • revision 8f2221fbef
+Tools • Dart 2.18.5 • DevTools 2.15.0
 
-A few resources to get you started if this is your first Flutter project:
+### Referências de estudos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Créditos
+Protótipo do projeto [clique aqui](https://www.behance.net/gallery/153001369/Calculator-Daily-UI-004), feito por [Alina Kolestinskaya](https://www.behance.net/alinakolesti)
